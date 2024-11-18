@@ -1,7 +1,5 @@
 # val-py
 
-A# ValPlayer
-
 A music player for Raspberry Pi using the Pirate Audio Line Out HAT, featuring a crystal red theme inspired by [The Valeries](https://expatpress.com/product/the-valeries-forrest-muelrath/) (ExPat Press, 2024).
 
 ![ValPlayer on Raspberry Pi](valpy-pi.png)
