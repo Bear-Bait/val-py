@@ -50,8 +50,8 @@ sudo pip3 install st7789
 
 3. Clone this repository:
 ```bash
-git clone https://github.com/Bear-Bait/valplayer.git
-cd valplayer
+git clone https://github.com/Bear-Bait/val-py.git
+cd val-py
 ```
 
 4. Copy music files:
