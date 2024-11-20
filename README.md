@@ -23,7 +23,7 @@ sudo raspi-config
 
 # Install required packages
 sudo apt update
-sudo apt install -y python3-pip python3-pygame music player for Raspberry Pi using the Pirate Audio Line Out HAT, featuring a theme from the novel The Valeries, ExPat Press 2024, and four audio files that relate to the plot. 
+sudo apt install -y python3-pip python3-pygame 
 
 ## Hardware Requirements
 - Raspberry Pi 3 (or newer)
